@@ -22,7 +22,7 @@ or if you want to use <strong>Ninja and Clangd</strong> setup (non Visual Studio
 
 ```shell
 cmake -G "Ninja Multi-Config" -D CMAKE_C_COMPILER=clang -D CMAKE_CXX_COMPILER=clang++ -S . -B build -DCMAKE_EXPORT_COMPILE_COMMANDS=1
-# just personal preference, copying compile_command.json to the source root
+# personal preference, copying compile_command.json to source root
 cp build/compile_commands.json .
 ```
 
