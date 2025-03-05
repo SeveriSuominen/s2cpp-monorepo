@@ -1,0 +1,578 @@
+[
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\raudio.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\raudio.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rcore.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rcore.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rmodels.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rmodels.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rshapes.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rshapes.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rtext.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rtext.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rtextures.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\rtextures.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\utils.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Debug\\utils.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\raudio.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\raudio.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rcore.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rcore.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rmodels.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rmodels.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rshapes.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rshapes.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rtext.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rtext.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rtextures.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\rtextures.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\utils.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\Release\\utils.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\raudio.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\raudio.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\raudio.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rcore.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rcore.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rcore.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rmodels.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rmodels.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rmodels.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rshapes.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rshapes.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rshapes.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rtext.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtext.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rtext.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rtextures.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\rtextures.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\rtextures.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src -isystem S:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu99 -o _deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\utils.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\utils.c",
+  "output": "_deps\\raylib-build\\raylib\\CMakeFiles\\raylib.dir\\RelWithDebInfo\\utils.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\input.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\input.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\platform.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\platform.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\vulkan.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\vulkan.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\egl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\egl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\osmesa_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\osmesa_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\null_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_module.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_module.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_time.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_time.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_thread.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_thread.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\win32_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\wgl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Debug\\wgl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\input.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\input.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\platform.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\platform.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\vulkan.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\vulkan.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\egl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\egl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\osmesa_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\osmesa_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\null_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_module.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_module.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_time.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_time.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_thread.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_thread.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\win32_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\wgl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\Release\\wgl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\input.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\input.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\input.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\platform.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\platform.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\platform.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\vulkan.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\vulkan.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\egl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\egl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\osmesa_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\osmesa_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\null_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_module.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_module.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_time.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_time.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_thread.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_thread.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_init.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_init.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_joystick.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_joystick.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_monitor.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_monitor.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_window.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\win32_window.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/src -IS:/medium-monorepo/target/_deps/raylib-build/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=c99 -Wall -o _deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\wgl_context.c.obj -c S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "S:\\medium-monorepo\\target\\_deps\\raylib-src\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "_deps\\raylib-build\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\RelWithDebInfo\\wgl_context.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu11 -fdiagnostics-color -o source\\common\\CMakeFiles\\rayext.dir\\Debug\\src\\rayext\\raygizmo.c.obj -c S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "file": "S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "output": "source\\common\\CMakeFiles\\rayext.dir\\Debug\\src\\rayext\\raygizmo.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu11 -fdiagnostics-color -o source\\common\\CMakeFiles\\rayext.dir\\Release\\src\\rayext\\raygizmo.c.obj -c S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "file": "S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "output": "source\\common\\CMakeFiles\\rayext.dir\\Release\\src\\rayext\\raygizmo.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu11 -fdiagnostics-color -o source\\common\\CMakeFiles\\rayext.dir\\RelWithDebInfo\\src\\rayext\\raygizmo.c.obj -c S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "file": "S:\\medium-monorepo\\source\\common\\src\\rayext\\raygizmo.c",
+  "output": "source\\common\\CMakeFiles\\rayext.dir\\RelWithDebInfo\\src\\rayext\\raygizmo.c.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Debug\\demo.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Debug\\demo.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Debug\\src\\cg_gjk.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Debug\\src\\cg_gjk.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Release\\demo.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Release\\demo.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Release\\src\\cg_gjk.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\Release\\src\\cg_gjk.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\RelWithDebInfo\\demo.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\demo.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\RelWithDebInfo\\demo.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/cg-gjk/include -IS:/medium-monorepo/source/cg-gjk/../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\RelWithDebInfo\\src\\cg_gjk.cpp.obj -c S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "file": "S:\\medium-monorepo\\source\\cg-gjk\\src\\cg_gjk.cpp",
+  "output": "source\\cg-gjk\\CMakeFiles\\cg-gjk.dir\\RelWithDebInfo\\src\\cg_gjk.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Debug\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/quick_guides/dot_and_cross/../../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++20 -fdiagnostics-color -o source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\Debug\\demo.cpp.obj -c S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "output": "source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\Debug\\demo.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"Release\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/quick_guides/dot_and_cross/../../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O3 -DNDEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\Release\\demo.cpp.obj -c S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "output": "source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\Release\\demo.cpp.obj"
+},
+{
+  "directory": "S:/medium-monorepo/target",
+  "command": "S:\\clang+llvm-19.1.6-x86_64-pc-windows-msvc\\bin\\clang++.exe -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -IS:/medium-monorepo/target/_deps/mxlib-src -IS:/medium-monorepo/source/quick_guides/dot_and_cross/../../common/include -IS:/medium-monorepo/target/_deps/raylib-src/src -IS:/medium-monorepo/target/_deps/raylib-src/src/external/glfw/include -IS:/medium-monorepo/source/common/include/rayext -IS:/medium-monorepo/source/common/raylib -O2 -DNDEBUG -g -Xclang -gcodeview -D_DLL -D_MT -Xclang --dependent-lib=msvcrt -std=gnu++20 -fdiagnostics-color -o source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\RelWithDebInfo\\demo.cpp.obj -c S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "file": "S:\\medium-monorepo\\source\\quick_guides\\dot_and_cross\\demo.cpp",
+  "output": "source\\quick_guides\\dot_and_cross\\CMakeFiles\\dot_and_cross.dir\\RelWithDebInfo\\demo.cpp.obj"
+}
+]
