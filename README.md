@@ -10,7 +10,7 @@ Project can be build with <strong>CMake 3.8 (or newer)</strong>. All depedencies
 
 Compiler version supporting <strong>C++17</strong> required. 
 
-Clang, GCC and MSVC should all compile just fine, but only tested with Clang and MSVC (on Windows).
+Clang, GCC and MSVC should all compile just fine, but only tested with Clang and MSVC (both on Windows).
 
 To generate project files:
 
