@@ -1,6 +1,6 @@
 # s2cpp-monorepo
 
-This repository contains the source code for all the implementations and demos used in the tutorials on [https:://severisuominen.github.io](https:://severisuominen.github.io)  
+This repository contains the source code for all the implementations and demos used in the tutorials on [https://severisuominen.github.io](https://severisuominen.github.io)  
 
 ## How to build
 
@@ -10,7 +10,7 @@ Project can be build with <strong>CMake 3.8 (or newer)</strong>. All depedencies
 
 Compiler version supporting <strong>C++17</strong> required. 
 
-<strong>Clang, GCC and MSVC </strong>should all compile just fine, but only tested with Clang and MSVC (on Windows).
+Clang, GCC and MSVC should all compile just fine, but only tested with Clang and MSVC (on Windows).
 
 To generate project files:
 
