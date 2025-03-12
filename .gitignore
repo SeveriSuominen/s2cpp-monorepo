@@ -2,3 +2,5 @@
 [Tt]arget/
 .vscode/
 .cache/
+
+compile_commands.json
